@@ -1,0 +1,8 @@
+BOB
+no score
+B4, B5, P3, B5, O5, O2, 
+BILL
+no score
+O6, G1, B3, P3, Y1, R1, 
+B2@X3 R2@X4 
+R3, R4, R5, R6, O1, O2, O3, O4, O5, O6, Y2, Y3, Y4, Y5, Y6, G2, G3, G4, G5, G6, B1, B2, B4, B6, P1, P2, P4, P5, P6, R1, R2, R3, R4, R5, R6, O1, O3, O5, O6, Y2, Y3, Y4, Y5, Y6, G1, G2, G3, G4, G5, G6, B1, B2, B3, B4, B5, B6, P1, P2, P4, P5, P6, R1, R2, R3, R4, R5, R6, O1, O2, O3, O4, Y1, Y2, Y3, Y4, Y5, Y6, G1, G2, G3, G4, G5, G6, B1, B6, P1, P2, P3, P4, P5, B3, Y1, 
